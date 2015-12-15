@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The quick brown fox jumps over the lazy dog.
 But the dog should not be so lazy.
-This addition is going to be trouble.
+Conflict resolved.
